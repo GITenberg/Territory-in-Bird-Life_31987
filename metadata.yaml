@@ -8,7 +8,7 @@ contributor:
     - Grönvold, H. (Henrik)
     - Gronvold, Henrik
     birthdate: 1858
-    deathdate: &id001 1940
+    deathdate: 1940
     gutenberg_agent_id: '35594'
     url: http://www.gutenberg.org/2009/agents/35594
   - agent_name: Lodge, George Edward
@@ -29,10 +29,12 @@ creator:
     - Howard, H. Eliot (Henry Eliot)
     - Howard, Eliot
     birthdate: 1873
-    deathdate: *id001
+    deathdate: 1940
     gutenberg_agent_id: '35592'
     url: http://www.gutenberg.org/2009/agents/35592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31987#Territory-in-Bird-Life
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
