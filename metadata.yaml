@@ -1,0 +1,52 @@
+_repo: Territory-in-Bird-Life_31987
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Grönvold, Henrik
+    aliases:
+    - Grönvold, Henrick
+    - Grönvold, H. (Henrik)
+    - Gronvold, Henrik
+    birthdate: 1858
+    deathdate: &id001 1940
+    gutenberg_agent_id: '35594'
+    url: http://www.gutenberg.org/2009/agents/35594
+  - agent_name: Lodge, George Edward
+    aliases:
+    - Lodge, G. E. (George Edward)
+    - Lodge, George E.
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '35593'
+    url: http://www.gutenberg.org/2009/agents/35593
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, Henry Eliot
+    aliases:
+    - Howard, H. Eliot (Henry Eliot)
+    - Howard, Eliot
+    birthdate: 1873
+    deathdate: *id001
+    gutenberg_agent_id: '35592'
+    url: http://www.gutenberg.org/2009/agents/35592
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2010-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Territoriality'
+- !lcsh 'Birds'
+title: Territory in Bird Life
+url: http://www.gutenberg.org/ebooks/31987
